@@ -1,0 +1,2198 @@
+{
+    "2020-1-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周三",
+        "almanac": "元旦"
+    },
+    "2020-1-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周四",
+        "almanac": "腊八节"
+    },
+    "2020-1-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周五",
+        "almanac": "初九"
+    },
+    "2020-1-4": {
+        "sign": "休",
+        "daynumber": "4",
+        "daysign": "周六",
+        "almanac": "初十"
+    },
+    "2020-1-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周日",
+        "almanac": "十一"
+    },
+    "2020-1-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周一",
+        "almanac": "小寒"
+    },
+    "2020-1-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周二",
+        "almanac": "十三"
+    },
+    "2020-1-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周三",
+        "almanac": "十四"
+    },
+    "2020-1-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周四",
+        "almanac": "十五"
+    },
+    "2020-1-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周五",
+        "almanac": "十六"
+    },
+    "2020-1-11": {
+        "sign": "休",
+        "daynumber": "11",
+        "daysign": "周六",
+        "almanac": "十七"
+    },
+    "2020-1-12": {
+        "sign": "休",
+        "daynumber": "12",
+        "daysign": "周日",
+        "almanac": "十八"
+    },
+    "2020-1-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周一",
+        "almanac": "十九"
+    },
+    "2020-1-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周二",
+        "almanac": "二十"
+    },
+    "2020-1-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周三",
+        "almanac": "廿一"
+    },
+    "2020-1-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周四",
+        "almanac": "廿二"
+    },
+    "2020-1-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周五",
+        "almanac": "小年"
+    },
+    "2020-1-18": {
+        "sign": "休",
+        "daynumber": "18",
+        "daysign": "周六",
+        "almanac": "廿四"
+    },
+    "2020-1-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周日",
+        "almanac": "廿五"
+    },
+    "2020-1-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周一",
+        "almanac": "大寒"
+    },
+    "2020-1-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周二",
+        "almanac": "廿七"
+    },
+    "2020-1-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周三",
+        "almanac": "廿八"
+    },
+    "2020-1-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周四",
+        "almanac": "廿九"
+    },
+    "2020-1-24": {
+        "sign": "休",
+        "daynumber": "24",
+        "daysign": "周五",
+        "almanac": "除夕"
+    },
+    "2020-1-25": {
+        "sign": "休",
+        "daynumber": "25",
+        "daysign": "周六",
+        "almanac": "春节"
+    },
+    "2020-1-26": {
+        "sign": "休",
+        "daynumber": "26",
+        "daysign": "周日",
+        "almanac": "初二"
+    },
+    "2020-1-27": {
+        "sign": "休",
+        "daynumber": "27",
+        "daysign": "周一",
+        "almanac": "初三"
+    },
+    "2020-1-28": {
+        "sign": "休",
+        "daynumber": "28",
+        "daysign": "周二",
+        "almanac": "初四"
+    },
+    "2020-1-29": {
+        "sign": "休",
+        "daynumber": "29",
+        "daysign": "周三",
+        "almanac": "初五"
+    },
+    "2020-1-30": {
+        "sign": "休",
+        "daynumber": "30",
+        "daysign": "周四",
+        "almanac": "初六"
+    },
+    "2020-1-31": {
+        "sign": "休",
+        "daynumber": "31",
+        "daysign": "周五",
+        "almanac": "初七"
+    },
+    "2020-2-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周六",
+        "almanac": "初八"
+    },
+    "2020-2-2": {
+        "sign": "休",
+        "daynumber": "2",
+        "daysign": "周日",
+        "almanac": "湿地日"
+    },
+    "2020-2-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周一",
+        "almanac": "初十"
+    },
+    "2020-2-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周二",
+        "almanac": "立春"
+    },
+    "2020-2-5": {
+        "sign": "班",
+        "daynumber": "5",
+        "daysign": "周三",
+        "almanac": "十二"
+    },
+    "2020-2-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周四",
+        "almanac": "十三"
+    },
+    "2020-2-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周五",
+        "almanac": "十四"
+    },
+    "2020-2-8": {
+        "sign": "休",
+        "daynumber": "8",
+        "daysign": "周六",
+        "almanac": "元宵节"
+    },
+    "2020-2-9": {
+        "sign": "休",
+        "daynumber": "9",
+        "daysign": "周日",
+        "almanac": "十六"
+    },
+    "2020-2-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周一",
+        "almanac": "十七"
+    },
+    "2020-2-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周二",
+        "almanac": "十八"
+    },
+    "2020-2-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周三",
+        "almanac": "十九"
+    },
+    "2020-2-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周四",
+        "almanac": "二十"
+    },
+    "2020-2-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周五",
+        "almanac": "情人节"
+    },
+    "2020-2-15": {
+        "sign": "休",
+        "daynumber": "15",
+        "daysign": "周六",
+        "almanac": "廿二"
+    },
+    "2020-2-16": {
+        "sign": "休",
+        "daynumber": "16",
+        "daysign": "周日",
+        "almanac": "廿三"
+    },
+    "2020-2-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周一",
+        "almanac": "廿四"
+    },
+    "2020-2-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周二",
+        "almanac": "廿五"
+    },
+    "2020-2-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周三",
+        "almanac": "雨水"
+    },
+    "2020-2-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周四",
+        "almanac": "廿七"
+    },
+    "2020-2-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周五",
+        "almanac": "廿八"
+    },
+    "2020-2-22": {
+        "sign": "休",
+        "daynumber": "22",
+        "daysign": "周六",
+        "almanac": "廿九"
+    },
+    "2020-2-23": {
+        "sign": "休",
+        "daynumber": "23",
+        "daysign": "周日",
+        "almanac": "初一"
+    },
+    "2020-2-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周一",
+        "almanac": "龙头节"
+    },
+    "2020-2-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周二",
+        "almanac": "初三"
+    },
+    "2020-2-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周三",
+        "almanac": "初四"
+    },
+    "2020-2-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周四",
+        "almanac": "初五"
+    },
+    "2020-2-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周五",
+        "almanac": "初六"
+    },
+    "2020-2-29": {
+        "sign": "休",
+        "daynumber": "29",
+        "daysign": "周六",
+        "almanac": "初七"
+    },
+    "2020-3-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周日",
+        "almanac": "初八"
+    },
+    "2020-3-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周一",
+        "almanac": "初九"
+    },
+    "2020-3-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周二",
+        "almanac": "初十"
+    },
+    "2020-3-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周三",
+        "almanac": "十一"
+    },
+    "2020-3-5": {
+        "sign": "班",
+        "daynumber": "5",
+        "daysign": "周四",
+        "almanac": "惊蛰"
+    },
+    "2020-3-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周五",
+        "almanac": "十三"
+    },
+    "2020-3-7": {
+        "sign": "休",
+        "daynumber": "7",
+        "daysign": "周六",
+        "almanac": "十四"
+    },
+    "2020-3-8": {
+        "sign": "休",
+        "daynumber": "8",
+        "daysign": "周日",
+        "almanac": "妇女节"
+    },
+    "2020-3-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周一",
+        "almanac": "十六"
+    },
+    "2020-3-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周二",
+        "almanac": "十七"
+    },
+    "2020-3-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周三",
+        "almanac": "十八"
+    },
+    "2020-3-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周四",
+        "almanac": "植树节"
+    },
+    "2020-3-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周五",
+        "almanac": "二十"
+    },
+    "2020-3-14": {
+        "sign": "休",
+        "daynumber": "14",
+        "daysign": "周六",
+        "almanac": "廿一"
+    },
+    "2020-3-15": {
+        "sign": "休",
+        "daynumber": "15",
+        "daysign": "周日",
+        "almanac": "廿二"
+    },
+    "2020-3-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周一",
+        "almanac": "廿三"
+    },
+    "2020-3-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周二",
+        "almanac": "廿四"
+    },
+    "2020-3-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周三",
+        "almanac": "廿五"
+    },
+    "2020-3-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周四",
+        "almanac": "廿六"
+    },
+    "2020-3-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周五",
+        "almanac": "春分"
+    },
+    "2020-3-21": {
+        "sign": "休",
+        "daynumber": "21",
+        "daysign": "周六",
+        "almanac": "廿八"
+    },
+    "2020-3-22": {
+        "sign": "休",
+        "daynumber": "22",
+        "daysign": "周日",
+        "almanac": "廿九"
+    },
+    "2020-3-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周一",
+        "almanac": "三十"
+    },
+    "2020-3-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周二",
+        "almanac": "初一"
+    },
+    "2020-3-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周三",
+        "almanac": "初二"
+    },
+    "2020-3-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周四",
+        "almanac": "初三"
+    },
+    "2020-3-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周五",
+        "almanac": "初四"
+    },
+    "2020-3-28": {
+        "sign": "休",
+        "daynumber": "28",
+        "daysign": "周六",
+        "almanac": "初五"
+    },
+    "2020-3-29": {
+        "sign": "休",
+        "daynumber": "29",
+        "daysign": "周日",
+        "almanac": "初六"
+    },
+    "2020-3-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周一",
+        "almanac": "初七"
+    },
+    "2020-3-31": {
+        "sign": "班",
+        "daynumber": "31",
+        "daysign": "周二",
+        "almanac": "初八"
+    },
+    "2020-4-1": {
+        "sign": "班",
+        "daynumber": "1",
+        "daysign": "周三",
+        "almanac": "愚人节"
+    },
+    "2020-4-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周四",
+        "almanac": "初十"
+    },
+    "2020-4-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周五",
+        "almanac": "十一"
+    },
+    "2020-4-4": {
+        "sign": "休",
+        "daynumber": "4",
+        "daysign": "周六",
+        "almanac": "清明节"
+    },
+    "2020-4-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周日",
+        "almanac": "十三"
+    },
+    "2020-4-6": {
+        "sign": "休",
+        "daynumber": "6",
+        "daysign": "周一",
+        "almanac": "十四"
+    },
+    "2020-4-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周二",
+        "almanac": "十五"
+    },
+    "2020-4-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周三",
+        "almanac": "十六"
+    },
+    "2020-4-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周四",
+        "almanac": "十七"
+    },
+    "2020-4-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周五",
+        "almanac": "十八"
+    },
+    "2020-4-11": {
+        "sign": "休",
+        "daynumber": "11",
+        "daysign": "周六",
+        "almanac": "十九"
+    },
+    "2020-4-12": {
+        "sign": "休",
+        "daynumber": "12",
+        "daysign": "周日",
+        "almanac": "复活节"
+    },
+    "2020-4-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周一",
+        "almanac": "廿一"
+    },
+    "2020-4-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周二",
+        "almanac": "廿二"
+    },
+    "2020-4-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周三",
+        "almanac": "廿三"
+    },
+    "2020-4-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周四",
+        "almanac": "廿四"
+    },
+    "2020-4-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周五",
+        "almanac": "廿五"
+    },
+    "2020-4-18": {
+        "sign": "休",
+        "daynumber": "18",
+        "daysign": "周六",
+        "almanac": "廿六"
+    },
+    "2020-4-19": {
+        "sign": "休",
+        "daynumber": "19",
+        "daysign": "周日",
+        "almanac": "谷雨"
+    },
+    "2020-4-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周一",
+        "almanac": "廿八"
+    },
+    "2020-4-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周二",
+        "almanac": "廿九"
+    },
+    "2020-4-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周三",
+        "almanac": "地球日"
+    },
+    "2020-4-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周四",
+        "almanac": "读书日"
+    },
+    "2020-4-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周五",
+        "almanac": "中国航..."
+    },
+    "2020-4-25": {
+        "sign": "休",
+        "daynumber": "25",
+        "daysign": "周六",
+        "almanac": "初三"
+    },
+    "2020-4-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周日",
+        "almanac": "初四"
+    },
+    "2020-4-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周一",
+        "almanac": "初五"
+    },
+    "2020-4-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周二",
+        "almanac": "初六"
+    },
+    "2020-4-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周三",
+        "almanac": "初七"
+    },
+    "2020-4-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周四",
+        "almanac": "初八"
+    },
+    "2020-5-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周五",
+        "almanac": "劳动节"
+    },
+    "2020-5-2": {
+        "sign": "休",
+        "daynumber": "2",
+        "daysign": "周六",
+        "almanac": "初十"
+    },
+    "2020-5-3": {
+        "sign": "休",
+        "daynumber": "3",
+        "daysign": "周日",
+        "almanac": "十一"
+    },
+    "2020-5-4": {
+        "sign": "休",
+        "daynumber": "4",
+        "daysign": "周一",
+        "almanac": "青年节"
+    },
+    "2020-5-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周二",
+        "almanac": "立夏"
+    },
+    "2020-5-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周三",
+        "almanac": "十四"
+    },
+    "2020-5-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周四",
+        "almanac": "十五"
+    },
+    "2020-5-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周五",
+        "almanac": "十六"
+    },
+    "2020-5-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周六",
+        "almanac": "十七"
+    },
+    "2020-5-10": {
+        "sign": "休",
+        "daynumber": "10",
+        "daysign": "周日",
+        "almanac": "母亲节"
+    },
+    "2020-5-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周一",
+        "almanac": "十九"
+    },
+    "2020-5-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周二",
+        "almanac": "护士节"
+    },
+    "2020-5-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周三",
+        "almanac": "廿一"
+    },
+    "2020-5-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周四",
+        "almanac": "廿二"
+    },
+    "2020-5-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周五",
+        "almanac": "廿三"
+    },
+    "2020-5-16": {
+        "sign": "休",
+        "daynumber": "16",
+        "daysign": "周六",
+        "almanac": "廿四"
+    },
+    "2020-5-17": {
+        "sign": "休",
+        "daynumber": "17",
+        "daysign": "周日",
+        "almanac": "廿五"
+    },
+    "2020-5-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周一",
+        "almanac": "博物馆日"
+    },
+    "2020-5-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周二",
+        "almanac": "旅游日"
+    },
+    "2020-5-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周三",
+        "almanac": "小满"
+    },
+    "2020-5-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周四",
+        "almanac": "廿九"
+    },
+    "2020-5-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周五",
+        "almanac": "三十"
+    },
+    "2020-5-23": {
+        "sign": "休",
+        "daynumber": "23",
+        "daysign": "周六",
+        "almanac": "初一"
+    },
+    "2020-5-24": {
+        "sign": "休",
+        "daynumber": "24",
+        "daysign": "周日",
+        "almanac": "初二"
+    },
+    "2020-5-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周一",
+        "almanac": "初三"
+    },
+    "2020-5-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周二",
+        "almanac": "初四"
+    },
+    "2020-5-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周三",
+        "almanac": "初五"
+    },
+    "2020-5-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周四",
+        "almanac": "初六"
+    },
+    "2020-5-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周五",
+        "almanac": "初七"
+    },
+    "2020-5-30": {
+        "sign": "休",
+        "daynumber": "30",
+        "daysign": "周六",
+        "almanac": "初八"
+    },
+    "2020-5-31": {
+        "sign": "休",
+        "daynumber": "31",
+        "daysign": "周日",
+        "almanac": "无烟日"
+    },
+    "2020-6-1": {
+        "sign": "班",
+        "daynumber": "1",
+        "daysign": "周一",
+        "almanac": "儿童节"
+    },
+    "2020-6-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周二",
+        "almanac": "十一"
+    },
+    "2020-6-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周三",
+        "almanac": "十二"
+    },
+    "2020-6-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周四",
+        "almanac": "十三"
+    },
+    "2020-6-5": {
+        "sign": "班",
+        "daynumber": "5",
+        "daysign": "周五",
+        "almanac": "芒种"
+    },
+    "2020-6-6": {
+        "sign": "休",
+        "daynumber": "6",
+        "daysign": "周六",
+        "almanac": "十五"
+    },
+    "2020-6-7": {
+        "sign": "休",
+        "daynumber": "7",
+        "daysign": "周日",
+        "almanac": "十六"
+    },
+    "2020-6-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周一",
+        "almanac": "十七"
+    },
+    "2020-6-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周二",
+        "almanac": "十八"
+    },
+    "2020-6-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周三",
+        "almanac": "十九"
+    },
+    "2020-6-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周四",
+        "almanac": "二十"
+    },
+    "2020-6-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周五",
+        "almanac": "廿一"
+    },
+    "2020-6-13": {
+        "sign": "休",
+        "daynumber": "13",
+        "daysign": "周六",
+        "almanac": "廿二"
+    },
+    "2020-6-14": {
+        "sign": "休",
+        "daynumber": "14",
+        "daysign": "周日",
+        "almanac": "廿三"
+    },
+    "2020-6-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周一",
+        "almanac": "廿四"
+    },
+    "2020-6-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周二",
+        "almanac": "廿五"
+    },
+    "2020-6-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周三",
+        "almanac": "廿六"
+    },
+    "2020-6-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周四",
+        "almanac": "廿七"
+    },
+    "2020-6-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周五",
+        "almanac": "廿八"
+    },
+    "2020-6-20": {
+        "sign": "休",
+        "daynumber": "20",
+        "daysign": "周六",
+        "almanac": "廿九"
+    },
+    "2020-6-21": {
+        "sign": "休",
+        "daynumber": "21",
+        "daysign": "周日",
+        "almanac": "父亲节"
+    },
+    "2020-6-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周一",
+        "almanac": "初二"
+    },
+    "2020-6-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周二",
+        "almanac": "初三"
+    },
+    "2020-6-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周三",
+        "almanac": "初四"
+    },
+    "2020-6-25": {
+        "sign": "休",
+        "daynumber": "25",
+        "daysign": "周四",
+        "almanac": "端午节"
+    },
+    "2020-6-26": {
+        "sign": "休",
+        "daynumber": "26",
+        "daysign": "周五",
+        "almanac": "初六"
+    },
+    "2020-6-27": {
+        "sign": "休",
+        "daynumber": "27",
+        "daysign": "周六",
+        "almanac": "初七"
+    },
+    "2020-6-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周日",
+        "almanac": "初八"
+    },
+    "2020-6-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周一",
+        "almanac": "初九"
+    },
+    "2020-6-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周二",
+        "almanac": "初十"
+    },
+    "2020-7-1": {
+        "sign": "班",
+        "daynumber": "1",
+        "daysign": "周三",
+        "almanac": "建党节"
+    },
+    "2020-7-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周四",
+        "almanac": "十二"
+    },
+    "2020-7-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周五",
+        "almanac": "十三"
+    },
+    "2020-7-4": {
+        "sign": "休",
+        "daynumber": "4",
+        "daysign": "周六",
+        "almanac": "十四"
+    },
+    "2020-7-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周日",
+        "almanac": "十五"
+    },
+    "2020-7-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周一",
+        "almanac": "小暑"
+    },
+    "2020-7-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周二",
+        "almanac": "高考"
+    },
+    "2020-7-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周三",
+        "almanac": "十八"
+    },
+    "2020-7-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周四",
+        "almanac": "十九"
+    },
+    "2020-7-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周五",
+        "almanac": "二十"
+    },
+    "2020-7-11": {
+        "sign": "休",
+        "daynumber": "11",
+        "daysign": "周六",
+        "almanac": "廿一"
+    },
+    "2020-7-12": {
+        "sign": "休",
+        "daynumber": "12",
+        "daysign": "周日",
+        "almanac": "廿二"
+    },
+    "2020-7-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周一",
+        "almanac": "廿三"
+    },
+    "2020-7-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周二",
+        "almanac": "廿四"
+    },
+    "2020-7-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周三",
+        "almanac": "廿五"
+    },
+    "2020-7-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周四",
+        "almanac": "廿六"
+    },
+    "2020-7-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周五",
+        "almanac": "廿七"
+    },
+    "2020-7-18": {
+        "sign": "休",
+        "daynumber": "18",
+        "daysign": "周六",
+        "almanac": "廿八"
+    },
+    "2020-7-19": {
+        "sign": "休",
+        "daynumber": "19",
+        "daysign": "周日",
+        "almanac": "廿九"
+    },
+    "2020-7-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周一",
+        "almanac": "三十"
+    },
+    "2020-7-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周二",
+        "almanac": "初一"
+    },
+    "2020-7-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周三",
+        "almanac": "大暑"
+    },
+    "2020-7-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周四",
+        "almanac": "初三"
+    },
+    "2020-7-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周五",
+        "almanac": "初四"
+    },
+    "2020-7-25": {
+        "sign": "休",
+        "daynumber": "25",
+        "daysign": "周六",
+        "almanac": "初五"
+    },
+    "2020-7-26": {
+        "sign": "休",
+        "daynumber": "26",
+        "daysign": "周日",
+        "almanac": "初六"
+    },
+    "2020-7-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周一",
+        "almanac": "初七"
+    },
+    "2020-7-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周二",
+        "almanac": "初八"
+    },
+    "2020-7-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周三",
+        "almanac": "初九"
+    },
+    "2020-7-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周四",
+        "almanac": "初十"
+    },
+    "2020-7-31": {
+        "sign": "班",
+        "daynumber": "31",
+        "daysign": "周五",
+        "almanac": "十一"
+    },
+    "2020-8-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周六",
+        "almanac": "建军节"
+    },
+    "2020-8-2": {
+        "sign": "休",
+        "daynumber": "2",
+        "daysign": "周日",
+        "almanac": "十三"
+    },
+    "2020-8-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周一",
+        "almanac": "十四"
+    },
+    "2020-8-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周二",
+        "almanac": "十五"
+    },
+    "2020-8-5": {
+        "sign": "班",
+        "daynumber": "5",
+        "daysign": "周三",
+        "almanac": "十六"
+    },
+    "2020-8-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周四",
+        "almanac": "十七"
+    },
+    "2020-8-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周五",
+        "almanac": "立秋"
+    },
+    "2020-8-8": {
+        "sign": "休",
+        "daynumber": "8",
+        "daysign": "周六",
+        "almanac": "十九"
+    },
+    "2020-8-9": {
+        "sign": "休",
+        "daynumber": "9",
+        "daysign": "周日",
+        "almanac": "二十"
+    },
+    "2020-8-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周一",
+        "almanac": "廿一"
+    },
+    "2020-8-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周二",
+        "almanac": "廿二"
+    },
+    "2020-8-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周三",
+        "almanac": "廿三"
+    },
+    "2020-8-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周四",
+        "almanac": "廿四"
+    },
+    "2020-8-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周五",
+        "almanac": "廿五"
+    },
+    "2020-8-15": {
+        "sign": "休",
+        "daynumber": "15",
+        "daysign": "周六",
+        "almanac": "廿六"
+    },
+    "2020-8-16": {
+        "sign": "休",
+        "daynumber": "16",
+        "daysign": "周日",
+        "almanac": "廿七"
+    },
+    "2020-8-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周一",
+        "almanac": "廿八"
+    },
+    "2020-8-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周二",
+        "almanac": "廿九"
+    },
+    "2020-8-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周三",
+        "almanac": "初一"
+    },
+    "2020-8-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周四",
+        "almanac": "初二"
+    },
+    "2020-8-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周五",
+        "almanac": "初三"
+    },
+    "2020-8-22": {
+        "sign": "休",
+        "daynumber": "22",
+        "daysign": "周六",
+        "almanac": "处暑"
+    },
+    "2020-8-23": {
+        "sign": "休",
+        "daynumber": "23",
+        "daysign": "周日",
+        "almanac": "初五"
+    },
+    "2020-8-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周一",
+        "almanac": "初六"
+    },
+    "2020-8-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周二",
+        "almanac": "七夕节"
+    },
+    "2020-8-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周三",
+        "almanac": "初八"
+    },
+    "2020-8-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周四",
+        "almanac": "初九"
+    },
+    "2020-8-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周五",
+        "almanac": "初十"
+    },
+    "2020-8-29": {
+        "sign": "休",
+        "daynumber": "29",
+        "daysign": "周六",
+        "almanac": "十一"
+    },
+    "2020-8-30": {
+        "sign": "休",
+        "daynumber": "30",
+        "daysign": "周日",
+        "almanac": "十二"
+    },
+    "2020-8-31": {
+        "sign": "班",
+        "daynumber": "31",
+        "daysign": "周一",
+        "almanac": "十三"
+    },
+    "2020-9-1": {
+        "sign": "班",
+        "daynumber": "1",
+        "daysign": "周二",
+        "almanac": "十四"
+    },
+    "2020-9-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周三",
+        "almanac": "中元节"
+    },
+    "2020-9-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周四",
+        "almanac": "十六"
+    },
+    "2020-9-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周五",
+        "almanac": "十七"
+    },
+    "2020-9-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周六",
+        "almanac": "十八"
+    },
+    "2020-9-6": {
+        "sign": "休",
+        "daynumber": "6",
+        "daysign": "周日",
+        "almanac": "十九"
+    },
+    "2020-9-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周一",
+        "almanac": "白露"
+    },
+    "2020-9-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周二",
+        "almanac": "廿一"
+    },
+    "2020-9-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周三",
+        "almanac": "廿二"
+    },
+    "2020-9-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周四",
+        "almanac": "教师节"
+    },
+    "2020-9-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周五",
+        "almanac": "廿四"
+    },
+    "2020-9-12": {
+        "sign": "休",
+        "daynumber": "12",
+        "daysign": "周六",
+        "almanac": "廿五"
+    },
+    "2020-9-13": {
+        "sign": "休",
+        "daynumber": "13",
+        "daysign": "周日",
+        "almanac": "廿六"
+    },
+    "2020-9-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周一",
+        "almanac": "廿七"
+    },
+    "2020-9-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周二",
+        "almanac": "廿八"
+    },
+    "2020-9-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周三",
+        "almanac": "廿九"
+    },
+    "2020-9-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周四",
+        "almanac": "初一"
+    },
+    "2020-9-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周五",
+        "almanac": "初二"
+    },
+    "2020-9-19": {
+        "sign": "休",
+        "daynumber": "19",
+        "daysign": "周六",
+        "almanac": "初三"
+    },
+    "2020-9-20": {
+        "sign": "休",
+        "daynumber": "20",
+        "daysign": "周日",
+        "almanac": "初四"
+    },
+    "2020-9-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周一",
+        "almanac": "初五"
+    },
+    "2020-9-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周二",
+        "almanac": "秋分"
+    },
+    "2020-9-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周三",
+        "almanac": "初七"
+    },
+    "2020-9-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周四",
+        "almanac": "初八"
+    },
+    "2020-9-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周五",
+        "almanac": "初九"
+    },
+    "2020-9-26": {
+        "sign": "休",
+        "daynumber": "26",
+        "daysign": "周六",
+        "almanac": "初十"
+    },
+    "2020-9-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周日",
+        "almanac": "十一"
+    },
+    "2020-9-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周一",
+        "almanac": "十二"
+    },
+    "2020-9-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周二",
+        "almanac": "十三"
+    },
+    "2020-9-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周三",
+        "almanac": "十四"
+    },
+    "2020-10-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周四",
+        "almanac": "国庆节"
+    },
+    "2020-10-2": {
+        "sign": "休",
+        "daynumber": "2",
+        "daysign": "周五",
+        "almanac": "十六"
+    },
+    "2020-10-3": {
+        "sign": "休",
+        "daynumber": "3",
+        "daysign": "周六",
+        "almanac": "十七"
+    },
+    "2020-10-4": {
+        "sign": "休",
+        "daynumber": "4",
+        "daysign": "周日",
+        "almanac": "十八"
+    },
+    "2020-10-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周一",
+        "almanac": "十九"
+    },
+    "2020-10-6": {
+        "sign": "休",
+        "daynumber": "6",
+        "daysign": "周二",
+        "almanac": "二十"
+    },
+    "2020-10-7": {
+        "sign": "休",
+        "daynumber": "7",
+        "daysign": "周三",
+        "almanac": "廿一"
+    },
+    "2020-10-8": {
+        "sign": "休",
+        "daynumber": "8",
+        "daysign": "周四",
+        "almanac": "寒露"
+    },
+    "2020-10-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周五",
+        "almanac": "廿三"
+    },
+    "2020-10-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周六",
+        "almanac": "廿四"
+    },
+    "2020-10-11": {
+        "sign": "休",
+        "daynumber": "11",
+        "daysign": "周日",
+        "almanac": "廿五"
+    },
+    "2020-10-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周一",
+        "almanac": "廿六"
+    },
+    "2020-10-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周二",
+        "almanac": "廿七"
+    },
+    "2020-10-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周三",
+        "almanac": "廿八"
+    },
+    "2020-10-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周四",
+        "almanac": "廿九"
+    },
+    "2020-10-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周五",
+        "almanac": "三十"
+    },
+    "2020-10-17": {
+        "sign": "休",
+        "daynumber": "17",
+        "daysign": "周六",
+        "almanac": "初一"
+    },
+    "2020-10-18": {
+        "sign": "休",
+        "daynumber": "18",
+        "daysign": "周日",
+        "almanac": "初二"
+    },
+    "2020-10-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周一",
+        "almanac": "初三"
+    },
+    "2020-10-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周二",
+        "almanac": "初四"
+    },
+    "2020-10-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周三",
+        "almanac": "初五"
+    },
+    "2020-10-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周四",
+        "almanac": "初六"
+    },
+    "2020-10-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周五",
+        "almanac": "霜降"
+    },
+    "2020-10-24": {
+        "sign": "休",
+        "daynumber": "24",
+        "daysign": "周六",
+        "almanac": "初八"
+    },
+    "2020-10-25": {
+        "sign": "休",
+        "daynumber": "25",
+        "daysign": "周日",
+        "almanac": "重阳节"
+    },
+    "2020-10-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周一",
+        "almanac": "初十"
+    },
+    "2020-10-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周二",
+        "almanac": "十一"
+    },
+    "2020-10-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周三",
+        "almanac": "十二"
+    },
+    "2020-10-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周四",
+        "almanac": "十三"
+    },
+    "2020-10-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周五",
+        "almanac": "十四"
+    },
+    "2020-10-31": {
+        "sign": "休",
+        "daynumber": "31",
+        "daysign": "周六",
+        "almanac": "十五"
+    },
+    "2020-11-1": {
+        "sign": "休",
+        "daynumber": "1",
+        "daysign": "周日",
+        "almanac": "十六"
+    },
+    "2020-11-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周一",
+        "almanac": "十七"
+    },
+    "2020-11-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周二",
+        "almanac": "十八"
+    },
+    "2020-11-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周三",
+        "almanac": "十九"
+    },
+    "2020-11-5": {
+        "sign": "班",
+        "daynumber": "5",
+        "daysign": "周四",
+        "almanac": "二十"
+    },
+    "2020-11-6": {
+        "sign": "班",
+        "daynumber": "6",
+        "daysign": "周五",
+        "almanac": "廿一"
+    },
+    "2020-11-7": {
+        "sign": "休",
+        "daynumber": "7",
+        "daysign": "周六",
+        "almanac": "立冬"
+    },
+    "2020-11-8": {
+        "sign": "休",
+        "daynumber": "8",
+        "daysign": "周日",
+        "almanac": "廿三"
+    },
+    "2020-11-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周一",
+        "almanac": "廿四"
+    },
+    "2020-11-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周二",
+        "almanac": "廿五"
+    },
+    "2020-11-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周三",
+        "almanac": "廿六"
+    },
+    "2020-11-12": {
+        "sign": "班",
+        "daynumber": "12",
+        "daysign": "周四",
+        "almanac": "廿七"
+    },
+    "2020-11-13": {
+        "sign": "班",
+        "daynumber": "13",
+        "daysign": "周五",
+        "almanac": "廿八"
+    },
+    "2020-11-14": {
+        "sign": "休",
+        "daynumber": "14",
+        "daysign": "周六",
+        "almanac": "廿九"
+    },
+    "2020-11-15": {
+        "sign": "休",
+        "daynumber": "15",
+        "daysign": "周日",
+        "almanac": "寒衣节"
+    },
+    "2020-11-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周一",
+        "almanac": "初二"
+    },
+    "2020-11-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周二",
+        "almanac": "大学生节"
+    },
+    "2020-11-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周三",
+        "almanac": "初四"
+    },
+    "2020-11-19": {
+        "sign": "班",
+        "daynumber": "19",
+        "daysign": "周四",
+        "almanac": "初五"
+    },
+    "2020-11-20": {
+        "sign": "班",
+        "daynumber": "20",
+        "daysign": "周五",
+        "almanac": "初六"
+    },
+    "2020-11-21": {
+        "sign": "休",
+        "daynumber": "21",
+        "daysign": "周六",
+        "almanac": "初七"
+    },
+    "2020-11-22": {
+        "sign": "休",
+        "daynumber": "22",
+        "daysign": "周日",
+        "almanac": "小雪"
+    },
+    "2020-11-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周一",
+        "almanac": "初九"
+    },
+    "2020-11-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周二",
+        "almanac": "初十"
+    },
+    "2020-11-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周三",
+        "almanac": "十一"
+    },
+    "2020-11-26": {
+        "sign": "班",
+        "daynumber": "26",
+        "daysign": "周四",
+        "almanac": "感恩节"
+    },
+    "2020-11-27": {
+        "sign": "班",
+        "daynumber": "27",
+        "daysign": "周五",
+        "almanac": "十三"
+    },
+    "2020-11-28": {
+        "sign": "休",
+        "daynumber": "28",
+        "daysign": "周六",
+        "almanac": "十四"
+    },
+    "2020-11-29": {
+        "sign": "休",
+        "daynumber": "29",
+        "daysign": "周日",
+        "almanac": "下元节"
+    },
+    "2020-11-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周一",
+        "almanac": "十六"
+    },
+    "2020-12-1": {
+        "sign": "班",
+        "daynumber": "1",
+        "daysign": "周二",
+        "almanac": "艾滋病日"
+    },
+    "2020-12-2": {
+        "sign": "班",
+        "daynumber": "2",
+        "daysign": "周三",
+        "almanac": "十八"
+    },
+    "2020-12-3": {
+        "sign": "班",
+        "daynumber": "3",
+        "daysign": "周四",
+        "almanac": "十九"
+    },
+    "2020-12-4": {
+        "sign": "班",
+        "daynumber": "4",
+        "daysign": "周五",
+        "almanac": "宪法日"
+    },
+    "2020-12-5": {
+        "sign": "休",
+        "daynumber": "5",
+        "daysign": "周六",
+        "almanac": "廿一"
+    },
+    "2020-12-6": {
+        "sign": "休",
+        "daynumber": "6",
+        "daysign": "周日",
+        "almanac": "廿二"
+    },
+    "2020-12-7": {
+        "sign": "班",
+        "daynumber": "7",
+        "daysign": "周一",
+        "almanac": "大雪"
+    },
+    "2020-12-8": {
+        "sign": "班",
+        "daynumber": "8",
+        "daysign": "周二",
+        "almanac": "廿四"
+    },
+    "2020-12-9": {
+        "sign": "班",
+        "daynumber": "9",
+        "daysign": "周三",
+        "almanac": "廿五"
+    },
+    "2020-12-10": {
+        "sign": "班",
+        "daynumber": "10",
+        "daysign": "周四",
+        "almanac": "廿六"
+    },
+    "2020-12-11": {
+        "sign": "班",
+        "daynumber": "11",
+        "daysign": "周五",
+        "almanac": "廿七"
+    },
+    "2020-12-12": {
+        "sign": "休",
+        "daynumber": "12",
+        "daysign": "周六",
+        "almanac": "廿八"
+    },
+    "2020-12-13": {
+        "sign": "休",
+        "daynumber": "13",
+        "daysign": "周日",
+        "almanac": "廿九"
+    },
+    "2020-12-14": {
+        "sign": "班",
+        "daynumber": "14",
+        "daysign": "周一",
+        "almanac": "三十"
+    },
+    "2020-12-15": {
+        "sign": "班",
+        "daynumber": "15",
+        "daysign": "周二",
+        "almanac": "初一"
+    },
+    "2020-12-16": {
+        "sign": "班",
+        "daynumber": "16",
+        "daysign": "周三",
+        "almanac": "初二"
+    },
+    "2020-12-17": {
+        "sign": "班",
+        "daynumber": "17",
+        "daysign": "周四",
+        "almanac": "初三"
+    },
+    "2020-12-18": {
+        "sign": "班",
+        "daynumber": "18",
+        "daysign": "周五",
+        "almanac": "初四"
+    },
+    "2020-12-19": {
+        "sign": "休",
+        "daynumber": "19",
+        "daysign": "周六",
+        "almanac": "初五"
+    },
+    "2020-12-20": {
+        "sign": "休",
+        "daynumber": "20",
+        "daysign": "周日",
+        "almanac": "初六"
+    },
+    "2020-12-21": {
+        "sign": "班",
+        "daynumber": "21",
+        "daysign": "周一",
+        "almanac": "冬至"
+    },
+    "2020-12-22": {
+        "sign": "班",
+        "daynumber": "22",
+        "daysign": "周二",
+        "almanac": "初八"
+    },
+    "2020-12-23": {
+        "sign": "班",
+        "daynumber": "23",
+        "daysign": "周三",
+        "almanac": "初九"
+    },
+    "2020-12-24": {
+        "sign": "班",
+        "daynumber": "24",
+        "daysign": "周四",
+        "almanac": "平安夜"
+    },
+    "2020-12-25": {
+        "sign": "班",
+        "daynumber": "25",
+        "daysign": "周五",
+        "almanac": "圣诞节"
+    },
+    "2020-12-26": {
+        "sign": "休",
+        "daynumber": "26",
+        "daysign": "周六",
+        "almanac": "十二"
+    },
+    "2020-12-27": {
+        "sign": "休",
+        "daynumber": "27",
+        "daysign": "周日",
+        "almanac": "十三"
+    },
+    "2020-12-28": {
+        "sign": "班",
+        "daynumber": "28",
+        "daysign": "周一",
+        "almanac": "十四"
+    },
+    "2020-12-29": {
+        "sign": "班",
+        "daynumber": "29",
+        "daysign": "周二",
+        "almanac": "十五"
+    },
+    "2020-12-30": {
+        "sign": "班",
+        "daynumber": "30",
+        "daysign": "周三",
+        "almanac": "十六"
+    },
+    "2020-12-31": {
+        "sign": "班",
+        "daynumber": "31",
+        "daysign": "周四",
+        "almanac": "十七"
+    }
+}
